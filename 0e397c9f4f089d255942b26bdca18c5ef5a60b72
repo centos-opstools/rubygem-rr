@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9aa7fdbe_c40f5c2d",
+        "filename": "rubygem-rr.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 326
+      },
+      "writtenOn": "2017-06-01T21:37:09Z",
+      "side": 1,
+      "message": "change this to 2.0.0",
+      "revId": "0e397c9f4f089d255942b26bdca18c5ef5a60b72",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9aa7fdbe_e41c606d",
+        "filename": "rubygem-rr.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 326
+      },
+      "writtenOn": "2017-06-01T21:37:09Z",
+      "side": 1,
+      "message": "get rid of this",
+      "revId": "0e397c9f4f089d255942b26bdca18c5ef5a60b72",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9aa7fdbe_041a446e",
+        "filename": "rubygem-rr.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 326
+      },
+      "writtenOn": "2017-06-01T21:37:09Z",
+      "side": 1,
+      "message": "get rid of this",
+      "revId": "0e397c9f4f089d255942b26bdca18c5ef5a60b72",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9aa7fdbe_242668bb",
+        "filename": "rubygem-rr.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 326
+      },
+      "writtenOn": "2017-06-01T21:37:09Z",
+      "side": 1,
+      "message": "get rid of this",
+      "revId": "0e397c9f4f089d255942b26bdca18c5ef5a60b72",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9aa7fdbe_442b6c82",
+        "filename": "rubygem-rr.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 326
+      },
+      "writtenOn": "2017-06-01T21:37:09Z",
+      "side": 1,
+      "message": "remove the %if and %endif lines",
+      "revId": "0e397c9f4f089d255942b26bdca18c5ef5a60b72",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
