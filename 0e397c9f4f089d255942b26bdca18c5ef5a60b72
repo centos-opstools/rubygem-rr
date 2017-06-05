@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "9aa7fdbe_78a57003",
+        "filename": "rubygem-rr.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 390
+      },
+      "writtenOn": "2017-06-05T07:20:13Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9aa7fdbe_c40f5c2d",
+      "revId": "0e397c9f4f089d255942b26bdca18c5ef5a60b72",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9aa7fdbe_e41c606d",
         "filename": "rubygem-rr.spec",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2017-06-01T21:37:09Z",
       "side": 1,
       "message": "get rid of this",
+      "revId": "0e397c9f4f089d255942b26bdca18c5ef5a60b72",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9aa7fdbe_98aa14d3",
+        "filename": "rubygem-rr.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 390
+      },
+      "writtenOn": "2017-06-05T07:20:13Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9aa7fdbe_e41c606d",
       "revId": "0e397c9f4f089d255942b26bdca18c5ef5a60b72",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "9aa7fdbe_b8aef8e5",
+        "filename": "rubygem-rr.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 390
+      },
+      "writtenOn": "2017-06-05T07:20:13Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9aa7fdbe_041a446e",
+      "revId": "0e397c9f4f089d255942b26bdca18c5ef5a60b72",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9aa7fdbe_242668bb",
         "filename": "rubygem-rr.spec",
         "patchSetId": 2
@@ -70,6 +124,24 @@
     },
     {
       "key": {
+        "uuid": "9aa7fdbe_d8abbcd4",
+        "filename": "rubygem-rr.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 390
+      },
+      "writtenOn": "2017-06-05T07:20:13Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9aa7fdbe_242668bb",
+      "revId": "0e397c9f4f089d255942b26bdca18c5ef5a60b72",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9aa7fdbe_442b6c82",
         "filename": "rubygem-rr.spec",
         "patchSetId": 2
@@ -81,6 +153,24 @@
       "writtenOn": "2017-06-01T21:37:09Z",
       "side": 1,
       "message": "remove the %if and %endif lines",
+      "revId": "0e397c9f4f089d255942b26bdca18c5ef5a60b72",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9aa7fdbe_f8b8802c",
+        "filename": "rubygem-rr.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 390
+      },
+      "writtenOn": "2017-06-05T07:20:13Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9aa7fdbe_442b6c82",
       "revId": "0e397c9f4f089d255942b26bdca18c5ef5a60b72",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": false
